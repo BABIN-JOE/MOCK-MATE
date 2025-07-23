@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 </div>
 
-# Prepwise
+# MOCK-MATE
 
     techstack: ["Node.js", "Express", "MongoDB", "React"],
 
