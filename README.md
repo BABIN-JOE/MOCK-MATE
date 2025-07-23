@@ -11,7 +11,7 @@
 
 # MOCK-MATE
 
-    techstack: ["Node.js", "Express", "MongoDB", "React"],
+    techstack: ["Node.js", "Express", "MongoDB", "React"], 
 
 ---
 
