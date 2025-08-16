@@ -76,3 +76,11 @@ All public assets are available [here](https://drive.google.com/drive/folders/1D
 ---
 
 **Enjoy building and good luck with your interviews!**
+
+
+## 🙌 Author
+
+**Babin Joe**  
+🔗 [Portfolio](https://babin-joe.vercel.app/) | [GitHub](https://github.com/BABIN-JOE) | [LinkedIn](https://www.linkedin.com/in/babin-joe/)
+
+---
