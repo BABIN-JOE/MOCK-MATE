@@ -2,6 +2,7 @@
   <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+<<<<<<< HEAD
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -24,6 +25,26 @@
 - **Authentication:** Secure sign up/sign in with Firebase.
 - **Dashboard:** Track and manage your interviews.
 
+=======
+</div>
+
+
+# MOCK-MATE
+
+    techstack: ["Node.js", "Express", "MongoDB", "React"],
+
+---
+
+## 🚀 Features
+
+- **AI-Powered Interviews:** Practice with voice-driven AI interviewers.
+- **Instant Feedback:** Receive detailed, category-based feedback and improvement tips.
+- **Role & Tech Customization:** Choose job roles, experience levels, and tech stacks.
+- **Modern UI/UX:** Sleek, responsive design for all devices.
+- **Authentication:** Secure sign up/sign in with Firebase.
+- **Dashboard:** Track and manage your interviews.
+
+>>>>>>> origin/master
 ## 🛠️ Tech Stack
 
 - Next.js
