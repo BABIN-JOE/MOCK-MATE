@@ -8,7 +8,7 @@
 
 # MOCK-MATE
 
-    techstack: ["Node.js", "Express", "MongoDB", "React"],
+    techstack: ["Node.js", "Express", "MongoDB", "React"], 
 
 ---
 
@@ -78,15 +78,22 @@ All public assets are available [here](https://drive.google.com/drive/folders/1D
 
 **Enjoy building and good luck with your interviews!**
 
+<<<<<<< HEAD
 ## 📜 License
 
 This project is licensed under the **MIT License**. Feel free to fork and customize, but credit is appreciated.
 
 ---
+=======
+>>>>>>> origin/main
 
 ## 🙌 Author
 
 **Babin Joe**  
 🔗 [Portfolio](https://babin-joe.vercel.app/) | [GitHub](https://github.com/BABIN-JOE) | [LinkedIn](https://www.linkedin.com/in/babin-joe/)
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> origin/main
